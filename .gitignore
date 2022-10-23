@@ -1,0 +1,8 @@
+*.terraform
+*.terraform.lock.hcl
+./Network/terraform
+./Network/terraform.lock.hcl
+*.terraform.lock.hcl
+*.terraform.lock.hcl
+*.git
+.git/
